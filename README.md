@@ -17,5 +17,5 @@ Finally, I wrote this to run on my Raspberry Pi 3B+, and it does run well for ev
 That runs at just under a frame per second. It works, detecting faces, just very slowly.
 If you read the comments at the bottom of the site someone asks about this, and the author suggests using his instructions that are specifically for the Pi: https://www.pyimagesearch.com/2018/06/25/raspberry-pi-face-recognition/
 This uses Haar cascades and dlib.
-I had tried to use that approach before using this one, but I couldn't get the face_regognition libraray to install, but I'll have another go now that I understand more about installing troublesome libs on the Pi.
+I had tried to use that approach before using this one, but I couldn't get the face_regognition library to install, but I'll have another go now that I understand more about installing troublesome libs on the Pi.
 If I get it working I'll post that code here on GitHub too.
